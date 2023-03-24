@@ -1,0 +1,26 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@edtr-io/mathquill": "^0.11.0",
+    "@edtr-io/mathquill/build/mathquill.js": "*",
+    "@types/react": "^18.0.8",
+    "@types/react-dom": "^18.0.2",
+    "jquery": "^3.6.4",
+    "katex": "^0.16.4",
+    "mathquill4quill": "^2.4.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-quill": "^2.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
